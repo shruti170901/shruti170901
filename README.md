@@ -29,7 +29,7 @@ I'm a second year student at IIT Kharagpur. I am a machine learning enthusiast a
 
 
 
-## Aloha! 
+
 <h2> Hi, I'm Shruti Shreyasi! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/35571958/87239980-b3130b00-c432-11ea-9571-24c85defd75a.png" width="350" height = "300">
 <p><em>Pursuing Bachelors from <a href="http://www.iitkgp.ac.in/">IIT KGP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -47,7 +47,6 @@ using namespace shruti170901
 int main(){
     string nationality = "Indian";
     string pronoun = "Her";
-    return 0;
     vector<string > Stuff_I_Know_About = {
                         "competitive_coding", 
                         "open_sourcing",
