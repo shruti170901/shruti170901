@@ -51,8 +51,7 @@ int main(){
                         "open_sourcing",
                         "mathematics", 
                         "machine_learning", 
-                        "webdev", 
-                        "academics"};
+                        "webdev"};
     vector<string > Languages_and_Tools_I_Use = {
                         "C", "C++", 
                         "Python", "Java", 
