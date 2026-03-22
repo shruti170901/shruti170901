@@ -6,7 +6,9 @@
 
 
 ## About me 
-I'm a 2023 E&ECE graduate of IIT Kharagpur. I am a machine learning enthusiast and try my hands regularly at competitive coding. I'm an open-source development enthusiast and I am quite active on GitHub.
+I'm a 2023 E&ECE graduate of IIT Kharagpur. I am a machine learning enthusiast and try my hand regularly at competitive coding. I'm an open-source development enthusiast and quite active on ~GitHub~ GitLab now. I'm currently working as a Senior SDE at Sprinklr.
+
+[![An image of @shruti170901's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shruti170901)](https://holopin.io/@shruti170901)
 
 
 ## Stuff I work with
@@ -27,45 +29,9 @@ I'm a 2023 E&ECE graduate of IIT Kharagpur. I am a machine learning enthusiast a
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
 
-### Others
+### CP
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg"></code>
-
-
-
-<h2> Hi, I'm Shruti Shreyasi! </h2>
-<p><em>Graduated from <a href="http://www.iitkgp.ac.in/">IIT KGP</a>
-  <br>Portfolio <a href = "https://shruti170901.github.io/web/">Link </a>
-</em></p>
-
-### A little more about me...  
-```cpp
-#include <dedication>
-#include <music>
-#include <iitkgp>
-#include <cp>
-using namespace shruti170901
-
-int main(){
-    string nationality = "Indian";
-    string pronoun = "Her";
-    vector<string > Stuff_I_Know_About = {
-                        "competitive_coding", 
-                        "open_source",
-                        "development", 
-                        "machine_learning"};
-    vector<string > Languages_and_Tools_I_Use = {
-                        "C", "C++", 
-                        "Python", "HTML", 
-                        "CSS", "JS", "React"};
-    while(learning){
-        Stuff_I_Know_About.push_back(new_stuff);
-        Languages_and_Tools_I_Use.push_back(new_additions);
-        stay_cool(always);
-    }
-}
-```
-
 
 [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shruti170901&hide=["prs"])](https://github.com/shruti170901/github-readme-stats)
